@@ -1,0 +1,6 @@
+## Interface: 11200
+## Title: QuestView
+## Notes: View quest text in a custom frame via /qv [quest title]
+## Author: Raylex & Copilot
+QuestView.lua
+
